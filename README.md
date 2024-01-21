@@ -13,8 +13,8 @@ I am an academic, lecturer, and researcher in the field of mechatronics engineer
 - 🏭Indrustrial Automation
 
 ### Research Projects
-####Two-wheeled self-balancing robot
-- Focusing on non-linear control, real time parameter monitoring and balanced motion in an incline plane. Developed as a simulation and prototype platform to conduct controls engineering experiments for undergraduates. 
+#### Two-wheeled self-balancing robot
+This research focuses on non-linear control, real time parameter monitoring and balanced motion in an incline plane. Developed as a simulation and prototype platform to conduct controls engineering experiments for undergraduates. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/randeeraliyanage//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100093678892324)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/randeeral//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@randeera)  
 
