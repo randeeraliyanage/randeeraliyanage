@@ -16,7 +16,7 @@ I am an academic, lecturer, and researcher in the field of mechatronics engineer
 #### Two-Wheeled Self-Balancing Robot
 This research focuses on non-linear control, real time parameter monitoring and balanced motion in an incline plane. Developed as a simulation and prototype platform to conduct controls engineering experiments for undergraduates. 
 
-[Project Details](/randeeraliyanage/randeeraliyanage/Two-Wheeled-Self-Balancing-Robot)
+[Project Details](https://github.com/randeeraliyanage/Two-Wheeled-Self-Balancing-Robot?tab=readme-ov-file#two-wheeled-self-balancing-robot)
 #### Mini Autonomous Underwater Robot
 
 #### Autonomous Ground Vehicle Educational Robot
